@@ -2,6 +2,7 @@
 
 ## Contact
 
+### Mail
 - mail: [info@zombie.works](info@zombie.works)
 
 ### SNS
